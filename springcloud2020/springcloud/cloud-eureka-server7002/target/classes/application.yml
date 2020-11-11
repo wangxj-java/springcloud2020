@@ -1,0 +1,20 @@
+server:
+  port: 7002
+eureka:
+  instance:
+    hostname: eureka7002.com #实例名
+  client:
+    register-with-eureka: false  #不注册自己
+    fetch-registry: false  #自身就是服务
+    service-url:
+      #设置与eureka server交互的地址 查询服务和注册服务
+      defaultZone: http://eureka7001.com:7001/eureka/
+
+
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: org.gjt.mm.mysql.Driver
+    url: jdbc:mysql://127.0.0.1:3306/spring?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: root

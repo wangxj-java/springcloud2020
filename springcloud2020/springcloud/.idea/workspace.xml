@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e5a50d-53a1-4086-9d4b-798a84622cd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="xxl-job" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1avi3Yg5WX2OtvPGtLIZUqc5aFl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../xxl-job-2.2.0" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xxl-job-2.2.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../xxl-job-2.2.0/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/test/java/com/xxl/job/executor/test/XxlJobExecutorExampleBootApplicationTests.java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.T2">
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T2" />
+      <module name="cloud-gateway-gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass.testOut" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="cloud-api-commons" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangxj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangxj" />
+      <option name="MAIN_CLASS_NAME" value="com.wangxj.TestClass" />
+      <option name="METHOD_NAME" value="testOut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangxj.elasticsearch.ElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangxj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangxj.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangxj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangxj.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangxj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangxj.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangxj.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangxj.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication8081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication8082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.T2" />
+      <item itemvalue="JUnit.TestClass.testOut" />
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication8081" />
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication8082" />
+      <item itemvalue="Spring Boot.XxlJobAdminApplication" />
+      <item itemvalue="Spring Boot.ElasticsearchApplication" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+        <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.PaymentMain8004" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17617866" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e5a50d-53a1-4086-9d4b-798a84622cd7" name="Default Changelist" comment="" />
+      <created>1587622269137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587622269137</updated>
+      <workItem from="1587622273291" duration="1717000" />
+      <workItem from="1587627200828" duration="261000" />
+      <workItem from="1587864188756" duration="93000" />
+      <workItem from="1588057977617" duration="644000" />
+      <workItem from="1588121429279" duration="464000" />
+      <workItem from="1588121939558" duration="13079000" />
+      <workItem from="1588137657842" duration="13322000" />
+      <workItem from="1588207391528" duration="18761000" />
+      <workItem from="1588237178538" duration="3598000" />
+      <workItem from="1588240856406" duration="85000" />
+      <workItem from="1588727026842" duration="2978000" />
+      <workItem from="1588730165478" duration="340000" />
+      <workItem from="1588731004307" duration="2483000" />
+      <workItem from="1588734369788" duration="2754000" />
+      <workItem from="1588751338924" duration="409000" />
+      <workItem from="1588753186314" duration="2078000" />
+      <workItem from="1588814559163" duration="7040000" />
+      <workItem from="1588834376511" duration="80000" />
+      <workItem from="1588900265546" duration="2226000" />
+      <workItem from="1588924816161" duration="587000" />
+      <workItem from="1588925445723" duration="2207000" />
+      <workItem from="1588928899950" duration="1367000" />
+      <workItem from="1589273374075" duration="29000" />
+      <workItem from="1589273937849" duration="1949000" />
+      <workItem from="1589337388101" duration="17000" />
+      <workItem from="1589337870196" duration="2040000" />
+      <workItem from="1590981336677" duration="21000" />
+      <workItem from="1590981369522" duration="15014000" />
+      <workItem from="1591078257275" duration="664000" />
+      <workItem from="1591089153709" duration="1000000" />
+      <workItem from="1591177955601" duration="203000" />
+      <workItem from="1591233433401" duration="212000" />
+      <workItem from="1591608521402" duration="33000" />
+      <workItem from="1591665577446" duration="3939000" />
+      <workItem from="1591945023304" duration="1750000" />
+      <workItem from="1591952759911" duration="3000" />
+      <workItem from="1592300951978" duration="1202000" />
+      <workItem from="1592356083192" duration="3221000" />
+      <workItem from="1592384154095" duration="8000" />
+      <workItem from="1592529117199" duration="1394000" />
+      <workItem from="1592873815655" duration="17000" />
+      <workItem from="1593478707097" duration="294000" />
+      <workItem from="1594176059190" duration="4621000" />
+      <workItem from="1594612286233" duration="41000" />
+      <workItem from="1595310569557" duration="4662000" />
+      <workItem from="1595380907461" duration="1112000" />
+      <workItem from="1595487819199" duration="4483000" />
+      <workItem from="1595575174789" duration="1235000" />
+      <workItem from="1595578736545" duration="46000" />
+      <workItem from="1595845899355" duration="27000" />
+      <workItem from="1596004216819" duration="249000" />
+      <workItem from="1596007534351" duration="2344000" />
+      <workItem from="1597625933925" duration="335000" />
+      <workItem from="1597626357966" duration="16000" />
+      <workItem from="1597626388156" duration="34000" />
+      <workItem from="1597626462960" duration="15000" />
+      <workItem from="1597626724570" duration="102000" />
+      <workItem from="1597643548337" duration="139000" />
+      <workItem from="1597643702610" duration="62000" />
+      <workItem from="1597994040154" duration="289000" />
+      <workItem from="1601450169759" duration="138000" />
+      <workItem from="1603450984378" duration="787000" />
+      <workItem from="1603937027972" duration="519000" />
+      <workItem from="1603938614177" duration="1059000" />
+      <workItem from="1603940100767" duration="14410000" />
+      <workItem from="1604018116342" duration="15000" />
+      <workItem from="1604044878802" duration="3691000" />
+      <workItem from="1604298971299" duration="11201000" />
+      <workItem from="1604387671290" duration="6671000" />
+      <workItem from="1604471729513" duration="7120000" />
+      <workItem from="1604632311561" duration="19000" />
+      <workItem from="1604974221607" duration="11469000" />
+      <workItem from="1605065853979" duration="4653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="47" key="#Project_Structure" timestamp="1604045458106">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="233" y="47" key="#Project_Structure/0.0.1280.770@0.0.1280.770" timestamp="1604045458106" />
+    <state x="422" y="142" key="FileChooserDialogImpl" timestamp="1601450202057">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="422" y="142" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1601450202057" />
+    <state width="1238" height="371" key="GridCell.Tab.0.bottom" timestamp="1605001424607">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="371" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1605001424607" />
+    <state width="1238" height="371" key="GridCell.Tab.0.center" timestamp="1605001424607">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="371" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1605001424607" />
+    <state width="1238" height="371" key="GridCell.Tab.0.left" timestamp="1605001424606">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="371" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1605001424606" />
+    <state width="1238" height="371" key="GridCell.Tab.0.right" timestamp="1605001424607">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="1238" height="371" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1605001424607" />
+    <state width="995" height="239" key="GridCell.Tab.1.bottom" timestamp="1605001424599">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="995" height="239" key="GridCell.Tab.1.bottom/0.0.1280.770@0.0.1280.770" timestamp="1605001424599" />
+    <state width="995" height="239" key="GridCell.Tab.1.center" timestamp="1605001424599">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="995" height="239" key="GridCell.Tab.1.center/0.0.1280.770@0.0.1280.770" timestamp="1605001424599" />
+    <state width="995" height="239" key="GridCell.Tab.1.left" timestamp="1605001424599">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="995" height="239" key="GridCell.Tab.1.left/0.0.1280.770@0.0.1280.770" timestamp="1605001424599" />
+    <state width="995" height="239" key="GridCell.Tab.1.right" timestamp="1605001424599">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state width="995" height="239" key="GridCell.Tab.1.right/0.0.1280.770@0.0.1280.770" timestamp="1605001424599" />
+    <state x="195" y="0" key="SettingsEditor" timestamp="1603940179181">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="195" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1603940179181" />
+    <state x="324" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1604632311676">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="324" y="209" key="com.intellij.ide.util.TipDialog/0.0.1280.770@0.0.1280.770" timestamp="1604632311676" />
+    <state x="6" y="173" width="1274" height="596" key="new project wizard" timestamp="1597626180173">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="6" y="173" width="1274" height="596" key="new project wizard/0.0.1280.770@0.0.1280.770" timestamp="1597626180173" />
+    <state x="306" y="95" width="672" height="678" key="search.everywhere.popup" timestamp="1597994046546">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="306" y="95" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1597994046546" />
+  </component>
+</project>

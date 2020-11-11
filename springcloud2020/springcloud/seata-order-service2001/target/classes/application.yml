@@ -1,0 +1,34 @@
+server:
+  port: 2001
+spring:
+  application:
+    name: seata-order-service
+  cloud:
+    alibaba:
+      seata:
+        #自定义分组名称
+        tx-service-group: sfp_tx_group
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/seata_order
+    username: root
+    password: root
+#mybatis:
+  #mapper-locations: classpath:mapper/*.xml
+  #type-aliases-package: com.wangxj.springcloud.domian
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+
+feign:
+  hystrix:
+    enabled: false
+ribbon:
+  eager-load:
+    enabled: false
+  http:
+    client:
+      enabled: false
